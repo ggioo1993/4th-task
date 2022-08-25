@@ -33,7 +33,7 @@ header li a{
 }
 
 .pirveli {
-    overflow: hidden;
+    overflow: hidden; 
     margin-left: 34px;
 }
 
@@ -43,11 +43,11 @@ header li a{
 }
 
 .meore {
-    overflow: hidden;
+    overflow: hidden; 
 }
 
 .meore img {
-    width: 100%; margin-top: -40px;
+    width: 100%; margin-top: -70px; 
 }
 .mesame {
     overflow: hidden;
@@ -61,6 +61,9 @@ header li a{
 .mmart {
     float:left; 
     width: 32%; height: 148px; background-color: orange;
+}
+.mesamme {
+    background-color: #FFE600;
 }
 
 .pirveli {
@@ -77,6 +80,9 @@ header li a{
     
 }
 
+.meorre {
+    background-color: #FFC700;
+}
 
 .meor {
     padding-left: 12px; padding-top: 14px; font-size: 18px;
@@ -105,4 +111,60 @@ header li a{
 }
 .bolo::before {
     content: "© ";
+}
+
+.dabr {
+    padding-left: 44px; padding-top: 16px; padding-bottom: 16px;
+}
+.dab {
+    opacity: 0.5; font-size: 12px;
+}
+.dab::before {
+    content: "<< ";
+}
+.siaxdiv {
+    background-color: #FF9900; height: 148px; width: 96%;
+    margin-left: 38px; margin-top: 16px;
+}
+.sxv {
+    background-color: #FFC700;
+}
+.sxxv {
+    background-color: #FFE600;
+}
+.ssiax {
+    padding-left: 10px; padding-top: 54px; font-size: 18px;
+}
+.ssami {
+    height: 200px; width: 32%;  background-color: gray;
+    float:left; overflow: hidden;
+}
+.pirrr {
+    margin-left: 38px;
+}
+
+.pirrr img{
+    width: 100%; margin-top: -40px;
+}
+
+.meoore img {
+    width: 100%; margin-top: -40px;
+}
+
+.meesame img{
+    width: 100%; margin-top: -40px;
+}
+.qveda {
+    width: 96%; height: 394px; background-color: #FF9900; clear:both;
+    margin-left: 38px;
+}
+.qv {
+    background-color:  #FFC700;
+}
+.qqvv {
+    background-color: #FFE600;
+}
+.qvedaa {
+    font-size: 14px;
+    padding-left: 10px; padding-top: 36px; padding-right: 20px; padding-bottom: 34px;
 }
